@@ -21,7 +21,7 @@ def main() -> None:
     """
     Выгружает данные по средней длительности сессий в CSV.
     """
-    # Корень проекта: saygames-product-analytics-test
+    # Корень проекта: helicopter-escape-gameplay-analytics
     project_root = Path(__file__).resolve().parents[2]
 
     # Папка для подготовленных датасетов
